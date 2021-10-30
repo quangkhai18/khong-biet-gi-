@@ -1,0 +1,81 @@
+body {
+    padding: 0px;
+    margin: 0px;
+    font-family: sans-serif;
+    box-sizing: border-box;
+    background-image: url(https://i.imgur.com/rX01rkH.jpg);
+    background-size: 110%;
+    background-position-x: center ;
+    background-repeat: no-repeat;
+}
+img {
+    width: 100px;
+    height: 100px;
+}
+.login-form{
+    width: 100%;
+    max-width: 600px;
+    margin:auto;
+    margin-top: 190px;
+    margin-bottom: auto;
+}
+.color-text {
+    color: lightgreen;
+}
+.btn {
+    padding-left: 235px;
+}
+.btn-login{
+    background-color: lightgreen;
+    border-radius: 20px;
+    border: none;
+    width: 120px;
+    height: 36px;
+}
+.img-login{
+    margin: auto;
+    width: 120px;
+    height: 120px;
+}
+.forgot{
+    max-height: 100px;
+    padding-left: 234px;
+    padding-bottom: 10%;
+}
+.forgot a {
+    padding: 40px;
+    color: lightblue;
+}
+.forgot a:hover{
+    color: lightgreen;
+}
+.forgot button{
+    background-color: lightgreen;
+}
+.forgot button:hover{
+    background-color: lightpink;
+}
+.forgot button a{
+    color: black;
+}
+.forgot button a:hover{
+    color: green;
+}
+.input-box{
+    margin-left: 73px;
+}
+.input-box label{
+    padding-left: 33px;
+}
+.input-box input{
+    border-radius: 20px;
+    padding: 9px 95px;
+    border-color: lightpink;
+    margin-left: 50px;
+}
+.input-box input:hover{
+    border-radius: 20px;
+    padding: 9px 95px;
+    border-color: lightblue;
+    margin-left: 50px;
+}
